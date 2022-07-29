@@ -30,3 +30,10 @@
 *.exe
 *.out
 *.app
+
+# Visual Studio Code files
+.vscode
+*.code-workspace
+
+# IntelliJ files
+.idea
